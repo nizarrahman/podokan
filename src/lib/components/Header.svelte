@@ -86,7 +86,7 @@
 	</div>
 	<NavUl {hidden} class="order-1">
 		<NavLi href="/" active={currentPath === '/'}>Home</NavLi>
-		<NavLi href="https://www.tfkhdyt.my.id" target="_blank">About Me</NavLi>
-		<NavLi href="https://github.com/tfkhdyt/pondokeun" target="_blank">Source Code</NavLi>
+		<NavLi href="https://nizardev.site" target="_blank">About Me</NavLi>
+		<NavLi href="https://instagram.com/nizarrrahman.f_" target="_blank">Instagam</NavLi>
 	</NavUl>
 </Navbar>
